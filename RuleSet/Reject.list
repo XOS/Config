@@ -24,28 +24,6 @@ DOMAIN,ios.ngp.prod.cloud.netflix.com
 DOMAIN,ios.prod.cloud.netflix.com
 DOMAIN,appboot.netflix.com
 
-# > 中国移动
-DOMAIN-SUFFIX,config.cmpassport.com
-DOMAIN-SUFFIX,www.cmpassport.com
-DOMAIN-SUFFIX,wap.cmpassport.com
-DOMAIN-SUFFIX,onekey1.cmpassport.com
-DOMAIN-SUFFIX,log1.cmpassport.com
-DOMAIN-SUFFIX,smsks1.cmpassport.com
-DOMAIN-SUFFIX,verify.cmpassport.com
-
-# > 中国联通
-DOMAIN-SUFFIX,opencloud.wostore.cn
-DOMAIN-SUFFIX,auth.wosms.cn
-DOMAIN-SUFFIX,id.mail.wo.cn
-DOMAIN-SUFFIX,mdn.open.wo.cn
-DOMAIN-SUFFIX,hmrz.wo.cn
-DOMAIN-SUFFIX,nishub1.10010.com
-DOMAIN-SUFFIX,enrichgw.10010.com
-
-# > 中国电信
-DOMAIN-SUFFIX,id6.me
-DOMAIN-SUFFIX,open.e.189.cn
-
 # > 其它
 DOMAIN-KEYWORD,httpdns,extended-matching
 DOMAIN-SUFFIX,aedns.weixin.qq.com,extended-matching
