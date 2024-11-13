@@ -968,6 +968,11 @@ DOMAIN,ups.ksmobile.net
 DOMAIN,ws.ksmobile.net
 
 # > 其它
+DOMAIN-SUFFIX,dmrtb.com
+DOMAIN-SUFFIX,qttunion.com
+DOMAIN-SUFFIX,1sapp.com
+DOMAIN-SUFFIX,bidex.cn
+DOMAIN-SUFFIX,zhangyuyidong.cn
 DOMAIN-WILDCARD,*ad*xiaomi.com
 DOMAIN-SUFFIX,tosv.byted.org
 DOMAIN-SUFFIX,adjust.cn
