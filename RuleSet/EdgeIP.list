@@ -14,11 +14,27 @@ URL-REGEX,^https?:\/\/weibo\.c(n|om)\/ajax\/comments\/create,extended-matching
 # > 微信公众平台
 DOMAIN-SUFFIX,mp.weixin.qq.com,extended-matching
 
+# > 抖音修改IP
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,douyinvod.com
+
+# > 快手修改IP
+DOMAIN-SUFFIX,gifshow.com
+DOMAIN-SUFFIX,apissl.ksapisrv.com
+
+# > 小红书修改IP
+DOMAIN-SUFFIX,edith.xiaohongshu.com
+
+# > 微信视频号
+DOMAIN,open.weixin.qq.com
+DOMAIN-SUFFIX,findermp.video.qq.com
+DOMAIN-SUFFIX,channels.weixin.qq.com
+
 # > 颇可
 DOMAIN-SUFFIX,app-api.poco.cn,extended-matching
 
 # > 什么值得买   
-DOMAIN-SUFFIX,s-api.smzdm.com,extended-matching      
+DOMAIN-SUFFIX,s-api.smzdm.com,extended-matching    
 DOMAIN-SUFFIX,homepage-api.smzdm.com,extended-matching
 DOMAIN-SUFFIX,qny.smzdm.com,extended-matching
 DOMAIN-SUFFIX,qna.smzdm.com,extended-matching
