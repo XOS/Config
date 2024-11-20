@@ -13,6 +13,7 @@
  var CNNET = ['460-03', '460-05', '460-11'];
  var Unicom = ['460-01', '460-06', '460-09'];
  var Mobile = ['460-00', '460-02', '460-04', '460-07', '460-08'];
+ var THK = ['454-03', '454-04', '454-05', '454-14']; //和记电讯
  var CBN = ['460-15']; //广电
  var CSR = ['460-20']; //铁路
  const radioGeneration = {
@@ -41,6 +42,8 @@
      server = "中国广电";
  } else if (CSR.includes(carrier)) {
      server = "中国铁路";
+ } else if (THK.includes(carrier)) {
+     server = "和记电讯";
  } else {
      server = "蜂窝网络";
  }
