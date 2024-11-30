@@ -33,3 +33,7 @@ DOMAIN-SUFFIX,siftscience.com
 DOMAIN-KEYWORD,jaja
 DOMAIN-SUFFIX,csftr.com
 DOMAIN-SUFFIX,guavapay.com
+DOMAIN-SUFFIX,entsrv-uk.vodafone.com
+DOMAIN-WILDCARD,*uk.vodafone.com
+DOMAIN-SUFFIX,vodafone.co.uk
+
