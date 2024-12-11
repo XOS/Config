@@ -10,11 +10,14 @@ DOMAIN-SUFFIX,t-mobile.com
 # > Google Voice
 DOMAIN,voice.google.com
 
-# > OVH新加坡
+# > OVH 新加坡
 IP-CIDR,51.79.128.0/17,no-resolve
 
-# > Surge官网
+# > Surge 官网
 DOMAIN-SUFFIX,dl.surge.com
+
+# > Testflight
+DOMAIN-SUFFIX,testflight.apple.com
 
 # > 腾讯游戏
 DOMAIN,cdn-1302064167.file.myqcloud.com
