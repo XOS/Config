@@ -36,4 +36,6 @@ DOMAIN-SUFFIX,guavapay.com
 DOMAIN-SUFFIX,entsrv-uk.vodafone.com
 DOMAIN-WILDCARD,*uk.vodafone.com
 DOMAIN-SUFFIX,vodafone.co.uk
-
+DOMAIN-SUFFIX,gcpsmapi.vodafone.com
+DOMAIN-SUFFIX,mobile-data.onetrust.io
+DOMAIN-SUFFIX,collect.tealiumiq.com
