@@ -2028,7 +2028,6 @@
 .clickalyzer.com
 .clickclick.net
 .clickdensity.com
-.clickdimensions.com
 .clickening.com
 .clickforensics.com
 .clicki.cn
@@ -42864,6 +42863,9 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.event.newsbreak.com
+.pixel-static.spotify.com
+.pixel-config.reddit.com
 .tracker.curama.jp
 .beacons.digital.disneyadvertising.com
 .telegraph.prd.api.discomax.com
@@ -45581,6 +45583,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.ulog*.kwaipros.com
 .logs-ingress.svc.vinted.com
 .analytics.baliusuperapp.xyz
 .log-va-us-looki.capcutapi.com
