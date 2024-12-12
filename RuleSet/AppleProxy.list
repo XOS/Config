@@ -34,7 +34,7 @@ DOMAIN,tv.applemusic.com
 DOMAIN,uts-api.itunes.apple.com
 DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,apple.news
-DOMAIN-SUFFIX,apps.apple.com
+//DOMAIN-SUFFIX,apps.apple.com
 DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,audio-ssl.itunes.apple.com
 DOMAIN-SUFFIX,blobstore.apple.com
