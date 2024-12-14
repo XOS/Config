@@ -82,7 +82,7 @@ DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,toutiaoapi.com
 DOMAIN-SUFFIX,gifshow.com
 DOMAIN-SUFFIX,ksapisrv.com
-DOMAIN-SUFFIX,xiaohongshu.com
+//DOMAIN-SUFFIX,xiaohongshu.com
 DOMAIN,keylol.com
 DOMAIN-SUFFIX,ixigua.com
 IP-CIDR,119.29.29.98/32,REJECT
