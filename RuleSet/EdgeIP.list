@@ -43,6 +43,9 @@ DOMAIN-SUFFIX,app-api.smzdm.com,extended-matching
 DOMAIN-SUFFIX,user-api.smzdm.com,extended-matching
 DOMAIN-SUFFIX,common-api.smzdm.comextended-matching
 
+# > 飞客茶馆
+DOMAIN-SUFFIX,flyert.com.cn
+
 # > 其它
 DOMAIN-SUFFIX,weibo.cn
 DOMAIN-SUFFIX,weibo.com
