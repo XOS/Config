@@ -24,6 +24,11 @@ DOMAIN,ios.ngp.prod.cloud.netflix.com
 DOMAIN,ios.prod.cloud.netflix.com
 DOMAIN,appboot.netflix.com
 
+# > 微信热更新
+DOMAIN,dldir1.qq.com
+DOMAIN,dldir1v6.qq.com
+DOMAIN,dl.wechat.com
+
 # > 其它
 DOMAIN-KEYWORD,httpdns,extended-matching
 DOMAIN-SUFFIX,aedns.weixin.qq.com,extended-matching
