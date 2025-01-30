@@ -6,6 +6,16 @@ DOMAIN-SUFFIX,miaozhen.com
 DOMAIN,ads-video-al.xhscdn.com
 DOMAIN,ads-img-al.xhscdn.com
 
+# > StepsApp
+DOMAIN-KEYWORD,superwall
+DOMAIN-WILDCARD,ep*.facebook.com
+DOMAIN-SUFFIX,superwalleditor.com
+DOMAIN-SUFFIX,mintegral.net
+DOMAIN-SUFFIX,pubnative.net
+DOMAIN-SUFFIX,iteleserve.com
+DOMAIN-SUFFIX,gravite.net
+DOMAIN-SUFFIX,aatkit.com
+
 # > POCO
 DOMAIN-SUFFIX,hmma.baidu.com
 DOMAIN-SUFFIX,adnonstop.com
