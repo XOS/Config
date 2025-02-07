@@ -16,6 +16,16 @@ DOMAIN-SUFFIX,iteleserve.com
 DOMAIN-SUFFIX,gravite.net
 DOMAIN-SUFFIX,aatkit.com
 
+# > Talkatone
+DOMAIN-SUFFIX,truste.com
+DOMAIN-SUFFIX,choices.trustarc.com
+DOMAIN-SUFFIX,doubleverify.com
+DOMAIN-SUFFIX,adrta.com
+DOMAIN-SUFFIX,mfx.mobilefuse.com
+DOMAIN-SUFFIX,bidder.criteo.com
+DOMAIN,ssp.api.tappx.com
+DOMAIN-SUFFIX,adserverevent.com
+
 # > POCO
 DOMAIN-SUFFIX,hmma.baidu.com
 DOMAIN-SUFFIX,adnonstop.com
