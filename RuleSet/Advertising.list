@@ -1455,6 +1455,7 @@ DOMAIN-SUFFIX,union-click.jd.com
 DOMAIN-SUFFIX,adtianmai.com
 DOMAIN-SUFFIX,admobile.top
 DOMAIN-SUFFIX,magicacid.cn
+DOMAIN-WILDCARD,*ad.mail.ru
 
 # > IPCIDR
 IP-CIDR,1.3.0.10/32,no-resolve
