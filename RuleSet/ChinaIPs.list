@@ -9382,6 +9382,7 @@ IP-CIDR,163.53.4.0/22,no-resolve
 IP-CIDR,163.53.40.0/21,no-resolve
 IP-CIDR,163.53.40.0/22,no-resolve
 IP-CIDR,163.53.44.0/22,no-resolve
+IP-CIDR,163.53.44.0/24,no-resolve
 IP-CIDR,163.53.46.0/23,no-resolve
 IP-CIDR,163.53.48.0/20,no-resolve
 IP-CIDR,163.53.48.0/22,no-resolve
@@ -17450,7 +17451,6 @@ IP-CIDR,8.148.0.0/19,no-resolve
 IP-CIDR,8.148.128.0/17,no-resolve
 IP-CIDR,8.148.32.0/22,no-resolve
 IP-CIDR,8.148.36.0/24,no-resolve
-IP-CIDR,8.148.40.0/22,no-resolve
 IP-CIDR,8.148.64.0/18,no-resolve
 IP-CIDR,8.149.0.0/16,no-resolve
 IP-CIDR,8.150.0.0/21,no-resolve
