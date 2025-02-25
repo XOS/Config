@@ -33,7 +33,7 @@ let option = {
     url: 'http://ip-api.com/json/',
     headers: {
         'Accept': '*/*',
-        'User-Agent': 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36',
+        'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1',
         'Content-Type': 'application/json; charset=utf-8'
     }
 }
@@ -65,15 +65,15 @@ function doWork(){
                     desc += i.term?' ' + i.term:''
                     desc += i.value?' ' + i.value:''
                     // 拼接消息体
-                    notifyContent = '干支纪法：' + i.gzYear + '年 ' + i.gzMonth + '月 ' + i.gzDate + '日' + desc + '\n忌：' + i.avoid + '\n宜：' + i.suit
+                    notifyContent = '干支：' + i.gzYear + '年 ' + i.gzMonth + '月 ' + i.gzDate + '日' + desc + '\n禁忌：' + i.avoid + '\n适宜：' + i.suit
                 }
             })
             $.isSurge() ? body = {
                 title: title,
                 content: notifyContent,
                 icon: 'calendar',
-                'icon-color': '#9999FF'
-            } : body = {title: title, content: notifyContent, icon: 'calendar', backgroundColor: '#9999FF'}
+                'icon-color': '#9978FF'
+            } : body = {title: title, content: notifyContent, icon: 'calendar', backgroundColor: '#9978FF'}
             console.log('\n内容：\n' + notifyContent)
             $.msg(title, nlDate, notifyContent)
             $.isSurge || $.isStash ? $.done(body) : $.done()
