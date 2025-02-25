@@ -5,23 +5,3 @@ DOMAIN-SUFFIX, ip.hi.cn
 DOMAIN-SUFFIX, cnic.eu.org
 DOMAIN-SUFFIX, nange.eu.org
 DOMAIN-SUFFIX, edgenode.eu.org
-
-# > 楠格
-DOMAIN, nange.cn
-DOMAIN, www.nange.cn
-DOMAIN, status.nange.cn
-DOMAIN, static.nange.cn
-DOMAIN, api.nange.cn
-#DOMAIN, cloud.nange.cn
-DOMAIN, ip.nange.cn
-DOMAIN, mail.nange.cn
-DOMAIN, admin.nange.cn
-DOMAIN, server.nange.cn
-DOMAIN, whois.nange.cn
-DOMAIN, node.nange.cn
-DOMAIN, hub.nan.ge
-DOMAIN, ali.nange.cn
-DOMAIN, agent.nange.cn
-DOMAIN, today.nange.cn
-DOMAIN, shop.nange.cn
-DOMAIN, nange.cn
