@@ -988,6 +988,7 @@ DOMAIN,ups.ksmobile.net
 DOMAIN,ws.ksmobile.net
 
 # > 其它
+DOMAIN-SUFFIX,mradx.net
 DOMAIN-SUFFIX,dmrtb.com
 DOMAIN-SUFFIX,qttunion.com
 DOMAIN-SUFFIX,1sapp.com
